@@ -1,15 +1,16 @@
 {
-    "name": "开发手册",
-    "short_name": "开发手册",
+    "name": "开发手册aaa",
+    "short_name": "开发手册aasdfdf",
     "start_url": "index.html",
     "display": "standalone",
-    "theme_color": "2196f3",
+    "theme_color": "#2196f3",
     "background_color": "#2196f3",
-    "description": "李艳斌的开发手册",
+    "description": "记录点滴",
+    "dir":"rtl",
     "icons": [
       {
-        "src": "./logo.png",
-        "sizes": "144x144",
+        "src": "imgs/logo.png",
+        "sizes": "20x20",
         "type": "image/png"
       }
     ],

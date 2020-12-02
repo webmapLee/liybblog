@@ -10,7 +10,7 @@ module.exports = [{
         },
         {
             text: 'openlayers',
-            link: '/blogs/openlayers/'
+            link: '/blogs/openlayers/00-Overview'
         },
         {
             text: 'leaflet',
@@ -28,6 +28,6 @@ module.exports = [{
 },
 {
     text: 'Github',
-    link: 'https://github.com/GISLearner'
+    link: 'https://github.com/webmapLee'
 },
 ]

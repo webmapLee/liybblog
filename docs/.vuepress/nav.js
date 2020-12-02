@@ -1,1 +1,0 @@
-module.exports = [{"text":"blogs","items":[{"text":"OPENLAYERS","link":"/blogs/openlayers/"},{"text":"LEAFLET","link":"/blogs/leaflet/"},{"text":"CESIUM","link":"/blogs/cesium/"},{"text":"REACT","link":"/blogs/react/"}]},{"text":"guide","items":[{"text":"GUIDE","link":"/guide/"}]}];
